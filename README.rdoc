@@ -1,0 +1,3 @@
+= scripts
+
+A couple of scripts I wrote. And a couple of zabbix things.
